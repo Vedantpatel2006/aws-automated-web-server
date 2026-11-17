@@ -40,7 +40,7 @@ Automated deployment of a static website on an Ubuntu EC2 instance using Nginx a
 - SSH (TCP 22): Restrict to your trusted IP.
 - HTTP (TCP 80): Allow public web traffic.
 - HTTPS (TCP 443): Allow when HTTPS is configured.
-- Keep AWS credentials and private SSH keys outside GitHub.
+
 
 ## Author
 Vedant Patel
